@@ -1,0 +1,2 @@
+SUBSYSTEM=="input", ENV{ID_MODEL}=="NVIDIA_Controller_v01.03", ENV{ID_INPUT_JOYSTICK}="1"
+
